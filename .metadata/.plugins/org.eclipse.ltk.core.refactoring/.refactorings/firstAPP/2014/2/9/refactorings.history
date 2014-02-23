@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 5 elements from project &apos;firstAPP&apos;&#x0D;&#x0A;- Original project: &apos;firstAPP&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     JQM&#x0D;&#x0A;     js&#x0D;&#x0A;     camera.html&#x0D;&#x0A;     index.html&#x0D;&#x0A;     loading.html" description="Delete elements" element1="assets/loading.html" element2="assets/js" element3="assets/index.html" element4="assets/JQM" element5="assets/camera.html" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="5" stamp="1393157010015" subPackages="false" version="1.0"/>
+</session>

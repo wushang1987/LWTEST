@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Document</title>
+	<script type="text/javascript" src="cordova.js"></script>
+	<script type="text/javascript" src="js/jquery-2.1.0.js"></script>
+	<script type="text/javascript" src="JQM/jquery.mobile-1.4.1.js"></script>
+	<link rel="stylesheet" type="text/css" href="JQM/jquery.mobile-1.4.1.css">
+</head>
+
+<body>
+    <div data-role="page" id="login">
+	<div data-role="header">
+	</div>
+	<div role="main" class="ui-content">
+		  <input type="text" name="textinput-s" id="textinput-s" placeholder="Text input" value="" data-clear-btn="true">
+		  <input type="password" name="textinput-s" id="textinput-s" placeholder="Text input" value="" data-clear-btn="true">
+		 	<a href="camera.html" data-prefetch="true"><button data-theme="b" class="ui-btn">閻ц缍�/button></a>
+	</div>
+	<div data-role="footer">
+
+	</div>
+</div>
+
+<div data-role="page" id="camera">
+	<div data-role="header">
+	</div>
+	<div role="main" class="ui-content">
+	</div>
+	<div data-role="footer">
+		<button data-theme="b" class="ui-btn">登录</button>
+	
+	</div>
+</div>
+
+</div>
+</body>
+</html>
