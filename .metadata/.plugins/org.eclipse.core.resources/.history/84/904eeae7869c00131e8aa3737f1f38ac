@@ -17,9 +17,9 @@
 	<div role="main" class="ui-content">
 		  <input type="text" name="textinput-s" id="textinput-s" placeholder="Text input" value="" data-clear-btn="true">
 		  <input type="password" name="textinput-s" id="textinput-s" placeholder="Text input" value="" data-clear-btn="true">
-   		<a href="camera.html" data-prefetch="true"><button data-theme="b" class="ui-btn">登录</button></a>
 	</div>
 	<div data-role="footer">
+		<a href="camera.html" data-prefetch="true"><button data-theme="b" class="ui-btn">登录</button></a>
 	</div>
 </div>
 
